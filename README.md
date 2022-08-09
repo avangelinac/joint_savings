@@ -1,4 +1,5 @@
-# 20_Solidity_JSA
+# joint_savings
+
 Joint savings account with Solidity
 1. Compile the smart contract
 ![Step 1](./images/screenshot_one.png)
